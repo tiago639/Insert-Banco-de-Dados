@@ -73,23 +73,6 @@ Este projeto consiste na modelagem e implementação de um banco de dados para u
 📁 Arquivo: `script_oracle.sql`  
 📁 Arquivo de inserts: `script_inserts.sql` (adaptável para Oracle)
 
-📸 **Prints de telas (Oracle SQL Developer):**
-
-- Tabela `departamento`:  
-  ![departamento_oracle](imgs/oracle_departamento.png)
-
-- Tabela `cargo`:  
-  ![cargo_oracle](imgs/oracle_cargo.png)
-
-- Tabela `funcionario`:  
-  ![funcionario_oracle](imgs/oracle_funcionario.png)
-
-- Tabela `dependente`:  
-  ![dependente_oracle](imgs/oracle_dependente.png)
-
-- Tabela `folha_pagamento`:  
-  ![folha_oracle](imgs/oracle_folha.png)
-
 ---
 
 ## 📈 Exemplos de Insert SQL
