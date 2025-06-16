@@ -130,4 +130,6 @@ INSERT INTO folha_pagamento (id_funcionario, mes_ano, salario_bruto, descontos, 
 ```
 
 ---
+**## 🧑‍💻 Autor
 
+**Tiago Fonseca** 
