@@ -128,6 +128,10 @@ INSERT INTO folha_pagamento (id_funcionario, mes_ano, salario_bruto, descontos, 
 (10, '05/2025', 3500.00, 350.00, 3150.00);
 
 ```
+---
+## 📄 Licença
+
+Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
 **## 🧑‍💻 Autor
